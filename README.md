@@ -1,22 +1,22 @@
 # Salarios vs Coste de Vida · España 2008–2023
 
-![Dashboard Preview](Dashboard_Salarios_Coste_Vida.png)
-![Portada del Proyecto](Slide1.png)
+![Dashboard Preview](Dashboard.png)
+![Portada del Proyecto](Slide_1.png)
 
 ## Data Storytelling
 *Desliza para ver los puntos clave del análisis o consulta el [Carrusel Completo](carrusel_linkedin_salarios_españa.pdf)*
 
 <p align="center">
-  <img src="Slide2.png" width="45%" />
-  <img src="Slide3.png" width="45%" />
+  <img src="Slide_2.png" width="45%" />
+  <img src="Slide_3.png" width="45%" />
 </p>
 <p align="center">
-  <img src="Slide4.png" width="45%" />
-  <img src="Slide5.png" width="45%" />
+  <img src="Slide_4.png" width="45%" />
+  <img src="Slide_5.png" width="45%" />
 </p>
 <p align="center">
-  <img src="Slide6.png" width="45%" />
-  <img src="Slide7.png" width="45%" />
+  <img src="Slide_6.png" width="45%" />
+  <img src="Slide_7.png" width="45%" />
 </p>
 
 ## Project Overview
@@ -34,7 +34,7 @@ Este dashboard analiza la evolución del poder adquisitivo en España entre 2008
 
 ## Contenido del Repositorio
 - `salarios-españa.pbix`: Archivo fuente con el modelo de datos y dashboard.
-- `Dashboard_Salarios_Coste_Vida.png`: Captura de pantalla del diseño final del dashboard.
+- `Dashboard.png`: Captura de pantalla del diseño final del dashboard.
 - `carrusel_linkedin_salarios_españa.pdf`: Storytelling del dashboard en formato carrusel.
 
 ---
